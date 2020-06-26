@@ -1,9 +1,8 @@
 # Google-Homepage
 
-In this project I will create my first webpage - a replica of the google webpage
+In this project I will create my first webpage - a replica of the google homepage
 
 ## Assignment - Build the Google.com homepage
-
 
 - Inside your project folder, create your index.html file
 
@@ -13,7 +12,7 @@ In this project I will create my first webpage - a replica of the google webpage
 - In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
 - Push your project to Github!
 
-Tips:
+#### Tips:
 - DON’T BE A PERFECTIONIST! You’re just trying to make it look like google.com, not actually function like it and it doesn’t have to be spaced exactly the same way to the pixel. Any dropdown menus or form submissions or hover-highlighting should be ignored.
 - USE GOOGLE! You’ll probably run into roadblocks where you can’t figure out how to do something so do what all good devs do… Google it!
 - Now is a good time to set up the live server extension in VSCode, if you haven’t already.
