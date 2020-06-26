@@ -2,7 +2,8 @@
 
 In this project I will create my first webpage - a replica of the google webpage
 
-## Assignment:
+## Assignment - Build the Google.com homepage
+
 
 - Inside your project folder, create your index.html file
 
