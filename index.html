@@ -9,16 +9,12 @@
         font-size: small;
     }
 
-
     .center {
         text-align: center;
         margin-top: 100px;    
     }
 
-    .searchbar {
-        width: 500px;
-        border-radius: 15px;
-    }
+
 
     .left {
         float: left;
@@ -26,6 +22,19 @@
 
     .right {
         float: right;
+    }
+
+    .search-buttons-div {
+        margin-top: 25px;
+    }
+
+    .search-buttons {
+        background-color: #f2f2f2;
+        border: 4px;
+        border-radius: 5px;
+        height: 40px;
+        width: 120px;
+
     }
 
     ul {
@@ -50,8 +59,17 @@
         color: white;
         padding: 10px 13px;
     }
-  
-
+    
+    
+     #searchbar {
+        margin-top: 10px;
+        width: 28%;
+        height: 35px;
+        border: 2px #f2f2f2 solid;
+        border-radius: 80px;
+        font-size: 18px;
+    } 
+ 
 
 </style>
 
@@ -75,15 +93,23 @@
         <!--End of Top Navbar-->
 
 
-
+        <!--Start of Main body of website-->
         <div class="center">
             <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="the Google logo">
+            
+            <form>
+                <div class="searchbar">
+                    <input id="searchbar" type="text" placeholder="Search..">
+                </div>
 
-            <div class="search-bar">
-                <input type="text" placeholder="Search..">
-            </div>
+                <div class="search-buttons-div">
+                    <input class="search-buttons" type="submit" value="Google Search">
+                    <input class="search-buttons" type="submit" value="I'm Feeling Lucky">
+                </div>
+
+            </form>
         </div>
-
+        <!--End of Main body of website-->
         
 
 
