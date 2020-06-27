@@ -19,3 +19,7 @@ In this project I will create my first webpage - a replica of the google homepag
 If you’re frustrated with trying to get buttons or inputs to style the way you want (for instance, they seem to just not respond to any styles), look into the css property -webkit-appearance: none; or -moz-appearance if you’re using Firefox.
 - Here’s a link to the Google Logo just in case they temporarily replace it with a Doodle!
 Here’s a cached page of the Google home page for reference in case the original logo is not there
+
+#### Notes:
+- css prioritises ids ``#searchbar`` over classes ``.searchbar``
+- css prioritises class properties and ids the lower down it is in the code
