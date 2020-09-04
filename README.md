@@ -1,6 +1,7 @@
 # Google-Homepage
 
-In this project I will create my first webpage - a replica of the google homepage
+- In this project I will create my first webpage - a replica of the google homepage
+- Project link: https://daniel-chow-yc.github.io/google-homepage/
 
 ## Assignment - Build the Google.com homepage
 
